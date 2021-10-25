@@ -31,12 +31,22 @@
 ## Super Resolution Reconstruction
 - SRDN  
   [Image Super-Resolution Using Dense Skip Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
+  
 - SRGAN  
   [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802v1.pdf)
+  
 - RealSR  
   [Real-World Super-Resolution via Kernel Estimation and Noise Injection](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Ji_Real-World_Super-Resolution_via_Kernel_Estimation_and_Noise_Injection_CVPRW_2020_paper.pdf)
+  
 - FISR  
   [To learn image super-resolution, use a GAN to learn how to do image degradation first](https://arxiv.org/pdf/1807.11458.pdf)
+  
+- Real-ESRGAN
+
+  [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf)
+
+- 
+
 ## Image Segmentation
 - UNet++  
   [UNet++: A Nested U-Net Architecturefor Medical Image Segmentation](https://arxiv.org/pdf/1807.10165.pdf)
@@ -45,3 +55,17 @@
 ## GAN
 - DCGAN  
   [DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)
+  
+- ESRGAN
+
+  [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf)
+
+- StyleGAN
+
+  [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
+
+- SRGAN
+
+  [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
+
+  
