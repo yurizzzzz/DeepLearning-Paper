@@ -1,4 +1,4 @@
-# 本文收集深度学习方向去噪/超分辨率重建/图像增强等方面的论文
+# 本文收集深度学习方向去噪/超分辨率重建/图像增强/图神经网络等方面的论文
 ## This article collects papers on deep learning direction denoising / super-resolution reconstruction / image enhancement
 ## Image Bit-depth Enhancement
 - ALBM  
@@ -67,5 +67,23 @@
 - SRGAN
 
   [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf)
+
+## Graph
+
+- GCN
+
+​		[SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)
+
+- CGGAT
+
+​		[Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.researchgate.net/publication/326202529_Commonsense_Knowledge_Aware_Conversation_Generation_with_Graph_Attention)
+
+- PinSage
+
+​		[Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)
+
+- IGSG
+
+  [Image Generation from Scene Graphs](https://arxiv.org/pdf/1804.01622.pdf)
 
   
