@@ -26,8 +26,10 @@
   [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising](https://arxiv.org/abs/1608.03981)
 - SADNet  
   [Spatial-Adaptive Network for Single Image Denoising](https://arxiv.org/abs/2001.10291)
-- SADNet  
-  [Spatial-Adaptive Network for Single Image Denoising](https://arxiv.org/abs/2001.10291)
+- C2N
+
+​		[C2N: Practical Generative Noise Modeling for Real-World Denoising]([C2N: Practical Generative Noise Modeling for Real-World Denoising (thecvf.com)](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_C2N_Practical_Generative_Noise_Modeling_for_Real-World_Denoising_ICCV_2021_paper.pdf))
+
 ## Super Resolution Reconstruction
 - SRDN  
   [Image Super-Resolution Using Dense Skip Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
@@ -45,7 +47,13 @@
 
   [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf)
 
-- 
+- Towards Real Scene Super-Resolution with Raw Images
+
+​		[Towards Real Scene Super-Resolution with Raw Images]([[1905.12156\] Towards Real Scene Super-Resolution with Raw Images (arxiv.org)](https://arxiv.org/abs/1905.12156))
+
+- Zoom to Learn, Learn to Zoom
+
+​		[Zoom to Learn, Learn to Zoom]([[1803.06641\] Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains (arxiv.org)](https://arxiv.org/abs/1803.06641))
 
 ## Image Segmentation
 - UNet++  
